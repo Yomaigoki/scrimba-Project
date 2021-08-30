@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Introduction to Cryptocurrencies</title>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:wght@900&display=swap" rel="stylesheet">
+        
+        <link href="index.css" rel="stylesheet">
+ 
+    </head>
+    
+    <body>
+        <header>
+          <div class="container">
+      
+          <h2>Bitcoin: The Origin of Cryptocurrencies</h2>
+          
+          <p>Cryptocurrencies are digital currency that was initially introduced to the world by <strong>Satoshi Nakamoto</strong> in the year 2009. The first cryptocurrency created was <em>BITCOIN</em> which crowned the success of a new technology known as the <strong>Blockchain Technology</strong>.</p>
+          
+          <p>There are over 11,000 crytocurrencies in the world but they are divided into two groups which are,
+              <ol>
+              <li><strong>BITCOIN</strong></li>
+              <li><strong>ALTCOIN</strong></li>
+              </p>
+          <br
+          <p>Note: Altcoins are every other coins that is not bitcoin.</p>
+        <p>The image below gives an overview of the blockchain technology</p>  
+          <img src="img/blockchain12.png" alt="An image showing how the blockchain technology works">
+          
+          <p>There are terminologies frequently used in the cryptocurrecy space, they are listed below</p>
+          <ul>
+              <li>FOMO: FEAR OF MISSING OUT</li>
+              <li>BULL: Upward movement of the market</li>
+              <li>BEAR: Downward movement of the market</li>
+              <li>DIP: A downward market plunge</li>
+              <li>HODL: Hold on to dear life</li>
+              <li>FUD: Fear uncertainty and doubt</li>
+              <li>OTC: Over the counter etc.</li>
+           </ul>
